@@ -11,6 +11,10 @@ div.a{
     margin:5px;
     padding: 5px;
     border:5px solid white;
+    color:white;
+}
+p{
+    font-weight:bold;
 }
 body{
     background-color:sienna;
