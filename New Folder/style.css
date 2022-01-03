@@ -17,5 +17,6 @@ p{
     font-weight:bold;
 }
 body{
+    background-image: url(images/b.jpg);
     background-color:sienna;
 }
